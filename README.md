@@ -4,7 +4,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 
 ## ⚠️ Vulnerability Management Projects
-
+- **[Vulnerability Management Demo With Tenable](https://github.com/Gstax21/Win10-Vulnerability-Management)**
 - **[Vulnerability Management Program Implementation](https://github.com/Gstax21/vulnerability-management-program/tree/main)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
